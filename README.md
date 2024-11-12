@@ -1,4 +1,4 @@
-# pravinskadwe-ME_XSEARCH2-Wikipedia-QA-Selenium
+# Harshvardhan-ME_XSEARCH2-Wikipedia-QA-Selenium
 
 ## Wikipedia Automation
 
